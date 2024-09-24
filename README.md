@@ -11,9 +11,9 @@
 
 Aşağıdaki ayarları değiştirerek uzantıyı özelleştirebilirsiniz:
 <img src="https://raw.githubusercontent.com/Noxi-root/42Header-vscode/refs/heads/main/pics/42Header-ayarlar-nas%C4%B1l-girilir.png">
-- `42header.customDomain`: 42 başlıklı uzantı için özel alan.
-- `42header.email`: 42 başlıklı uzantı için özel e-posta.
-- `42header.username`: 42-header uzantısı için özel kullanıcı adı.
+- `42header.customDomain`: 42 Header uzantısı için özel alan.
+- `42header.email`: 42 Header uzantısı için özel e-posta.
+- `42header.username`: 42 Header uzantısı için özel kullanıcı adı.
 <img src="https://raw.githubusercontent.com/Noxi-root/42Header-vscode/refs/heads/main/pics/42Header-ayarlar.png">
 
 ## Kullanım
