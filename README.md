@@ -1,4 +1,4 @@
-<img height="80" weight="80" src="https://raw.githubusercontent.com/Noxi-root/42Header-vscode/refs/heads/main/pics/42.png">
+<img height="80" weight="80" align="right" src="https://raw.githubusercontent.com/Noxi-root/42Header-vscode/refs/heads/main/pics/42.png">
 
 # 42 Header
 
