@@ -1,6 +1,6 @@
 <img height="80" weight="80" src="https://raw.githubusercontent.com/Noxi-root/42Header-vscode/refs/heads/main/pics/42.png">
 
-<h1 align="center"> 42 Header </h1>
+## 42 Header
 
 ## Kurulum
 
